@@ -6,7 +6,9 @@
     align-items: center;
     flex-direction: column;
     margin-top: 2rem;
+    margin-top: 2rem;
 }
+
 
 .profile-pic {
     position:relative;
@@ -28,8 +30,11 @@
     text-align: center;
 }
 .admin-name {
-    margin-top: 1rem;
+    margin-top: 1rem;margin-top: 1rem;
     color: #f1c40f;
+    width: 300px;
+    height: auto;
+    
     width: 300px;
     height: auto;
     
@@ -44,6 +49,10 @@
     margin: 1rem ;
     margin-bottom: -0.5rem;
     font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
     display: flex;
     flex-direction: column;
     justify-content: center;
